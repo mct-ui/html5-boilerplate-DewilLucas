@@ -20,7 +20,11 @@ html {
  */
 
 ::-moz-selection {
+  color: aqua;
+  background: #000;
 }
 
 ::selection {
+  color: aqua;
+  background: #000;
 }
