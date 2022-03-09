@@ -17,7 +17,7 @@ html {
  * https://twitter.com/miketaylr/status/12228805301
  *
  * Customize the background color to match your design.
- */
+*/
 
 ::-moz-selection {
   color: aqua;
@@ -27,4 +27,7 @@ html {
 ::selection {
   color: aqua;
   background: #000;
+}
+body {
+  max-width: 42em;
 }
